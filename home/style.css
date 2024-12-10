@@ -1,0 +1,49 @@
+.nav-container {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: flex-end;
+    gap: 20px;
+    background-color: rgb(135, 110, 111);
+    padding: 15px;
+    font-size: x-large;
+}
+a:hover{
+    color: white;
+}
+p{
+    font-size: larger;
+}
+button{
+    background-color: aqua;
+    border: 3px solid;
+}
+.home-container{
+    display: flex;
+}
+h1{
+    font-weight: 600;
+    font-size: xx-large;
+}
+p{
+    font-size: x-large;
+}
+.Workspace{
+    padding: 30px;
+    width: 500px;
+    height: 500px;
+}
+.section-tow{
+    height:500px;
+    width: 500px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.nav-footer{
+    background-color: rgb(135, 110, 111);
+    padding: 15px;
+    margin-top: 300px;
+    text-align: center;
+}
